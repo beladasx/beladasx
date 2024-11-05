@@ -11,8 +11,14 @@ Além de ser fã do Vasco, sou um grande entusiasta do futebol! Acredito que o f
 ## 🎮 Gamer
 Sou um gamer completo, viciado em varios jogos como CS2, Valorant, Fortnite e R6! 🎮
 
-## 📹 Já Fui Streamer
-Uma curiosidade sobre mim é que já fui **streamer**! Durante um tempo, compartilhei minhas jogatinas, interagi com a comunidade e me diverti bastante nesse mundo. Quem sabe um dia eu volte? 😉
+## 💻 Linguagens e Tecnologias
+Aqui estão algumas das linguagens de programação e tecnologias que eu utilizo no meu dia a dia como desenvolvedor:
+
+- **JavaScript**
+- **Python**
+- **HTML/CSS**
+- **SQL**
+- **Java**
 
 ## 🚀 O que você vai encontrar por aqui?
 - Projetos de desenvolvimento que estou trabalhando ou já concluí.

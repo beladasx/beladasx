@@ -35,6 +35,4 @@ Conecte-se comigo nas redes sociais para trocar ideias, falar sobre futebol, gam
 
 ---
 
-**⚡️ Vamos juntos, sempre em frente! Avante Almirante 🏴‍☠️✠**
-
 #VascoDaGama #GiganteDaColina #Esportes #Gamer 

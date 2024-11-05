@@ -9,7 +9,7 @@ Sou torcedor apaixonado do **Vasco da Gama**, o maior clube de futebol do Brasil
 Além de ser fã do Vasco, sou um grande entusiasta do futebol! Acredito que o futebol é uma verdadeira paixão, e me dedico a acompanhar e praticar o esporte sempre que posso. Inclusive, já fui **atleta de futsal** e conquistei várias **medalhas** ao longo da minha trajetória. 🏅
 
 ## 🎮 Gamer
-Sou um gamer completo, viciado em varios jogos como CS2, Valorant, Fortnite e R6! 🎮
+Sou um gamer completo e acompanho o cenario de **eSports**, viciado em varios jogos como CS2, Valorant, Fortnite e R6! 🎮
 
 ## 💻 Linguagens e Tecnologias
 Aqui estão algumas das linguagens de programação e tecnologias que eu utilizo no meu dia a dia como desenvolvedor:
